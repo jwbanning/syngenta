@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: Users
-  description: "API for creating and managing NOVA Security users."
+  description: "API for creating and managing NOVA Security users. point to the right branch"
   version: 1.0.0
   contact: {}
 servers:
